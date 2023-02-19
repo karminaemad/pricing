@@ -1,0 +1,66 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.row
+{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.content
+{
+    width: 500px;
+    height: 580px;
+    column-gap: 10px;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+}
+span
+{
+    font-size: 70px;
+    font-weight: bold;
+}
+.content i
+{
+    font-size: 45px;
+    margin-top: 50px;
+
+}
+div h3
+{
+    width: 480px;
+    height: 80px;
+    margin: 10px auto;
+    padding-top: 20px;
+    color: #1252a3;
+    background-color: #f0f3f7;
+}
+.one 
+{
+    font-weight: bold;
+    font-size: 25px;
+}
+.two
+{
+    font-size: 22px;
+    padding-top: 30px;
+    line-height: 30px;
+}
+.three
+{
+    margin-top: 50px;
+    font-size: 17px;
+}
+.btn
+{
+    width: 480px;
+    margin-top: 50px;
+}
+.btn1
+{
+    margin-top: 75px;
+}
